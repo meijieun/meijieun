@@ -6,12 +6,12 @@ My expertise lies in web design and marketing, and I'm enthusiastic about findin
 現在、東京での仕事を探しており、東京、ソウル、またはフルリモートでの仕事を希望しています。
 私の専門はウェブデザインとマーケティングで、これらのスキルを生かし、さらに発展させることができるポジションを見つけたいと熱望しています。
 
-# Techs & Tools
+# 🔥 Techs & Tools
 
-## 🔥 Skills
+## Skills
 ```HTML5``` ```CSS```
 
-## 🔥 Tools
+## Tools
 ```GitHub``` ```Slack``` ```Notion```
 # 📫 How to reach me
 meijieun.kim@gmail.com
