@@ -13,7 +13,7 @@ My expertise lies in web design and marketing, and I'm enthusiastic about findin
 [![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Tools
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/meijieun)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack)](https://slack.com/)
 [![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)](https://www.notion.so/)
 
