@@ -9,12 +9,16 @@ My expertise lies in web design and marketing, and I'm enthusiastic about findin
 # 🔥 Techs & Tools
 
 ## Skills
-```HTML5``` ```CSS```
+[![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Tools
-```GitHub``` ```Slack``` ```Notion```
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack)](https://slack.com/)
+[![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)](https://www.notion.so/)
+
 # 📫 How to reach me
-meijieun.kim@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&color=343434)](mailto:meijieun.kim@gmail.com)
 
 <!---
 meijieun/meijieun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
