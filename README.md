@@ -9,13 +9,13 @@ My expertise lies in web design and marketing, and I'm enthusiastic about findin
 # 🔥 Techs & Tools
 
 ## Skills
-[![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
 ## Tools
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/meijieun)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack)](https://slack.com/)
-[![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)](https://www.notion.so/)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack)
+![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)
 
 # 📫 How to reach me
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&color=343434)](mailto:meijieun.kim@gmail.com)
